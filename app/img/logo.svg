@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="44" viewBox="0 0 140 44">
+    <defs>
+        <style type="text/css">
+        @import url('https://fonts.googleapis.com/css?family=Roboto:900')
+        </style>
+    </defs>
+    <g>
+        <g>
+            <path fill="#fff" d="M0 0h140v44H0z" />
+        </g>
+        <g>
+            <g><text dominant-baseline="text-before-edge" style="text-transform:uppercase;line-height:32px" fill="#27ae60" font-family="'Roboto'" font-size="25" font-style="none" font-weight="900" transform="translate(24 13)">
+                    <tspan style="font-kerning:normal">layout</tspan>
+                </text></g>
+        </g>
+    </g>
+</svg>
